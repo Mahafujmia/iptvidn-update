@@ -3,7 +3,7 @@
   "latestVersion": "1.6",
   "latestVersionCode": 7,
   "minVersionCode": 5,
-  "forceUpdate": false,
+  "forceUpdate": true,
   "apkUrl": "https://github.com/Mahafujmia/iptvidn-update/raw/main/iptvidnpro.apk",
   "sha256": "",
   "releaseNotes": [
