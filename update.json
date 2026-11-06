@@ -1,0 +1,14 @@
+{
+  "appName": "Iptvidn Pro",
+  "latestVersion": "1.6",
+  "latestVersionCode": 7,
+  "minVersionCode": 5,
+  "forceUpdate": false,
+  "apkUrl": "এখানে_ধাপ_২_থেকে_কপি_করা_APK_লিংক_বসাবেন",
+  "sha256": "",
+  "releaseNotes": [
+    "নতুন প্লেয়ার অপটিমাইজেশন।",
+    "লাইভ টিভি বাফারিং আরও কমানো হয়েছে।",
+    "স্মার্ট টিভিতে কাস্ট করার বাগ ফিক্স।"
+  ]
+}

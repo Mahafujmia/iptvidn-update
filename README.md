@@ -1,1 +1,0 @@
-# iptvidn-update
