@@ -1,7 +1,7 @@
 {
   "appName": "Iptvidn Pro",
-  "latestVersion": "1.6",
-  "latestVersionCode": 7,
+  "latestVersion": "1.5",
+  "latestVersionCode": 5,
   "minVersionCode": 5,
   "forceUpdate": true,
   "apkUrl": "https://github.com/Mahafujmia/iptvidn-update/raw/main/iptvidnpro.apk",
